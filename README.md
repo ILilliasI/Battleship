@@ -2,7 +2,6 @@
 
 1. Initial command line input template:
 rowsNumber(from 1 to 100) columnsNumber(from 1 to 100) carriersNumber battleshipsNumber cruisersNumber destroyersNumber submarinesNumber enableTorpedoMode(1 - enable, 0 - don't enable) enableRecoveryMode(1 - enable, 0 - don't enable) torpedoesNumber(max=shipsNumber)
-
 Sum of all cells occupied by ships numbers must be <= 1/4 of game  table size and > 0.
 
 e.g. 7 7 2 0 0 1 0 0 1 0
